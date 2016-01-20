@@ -1,0 +1,26 @@
+/* CSS Document */
+*{ 
+  text-decoration: none;
+  margin: 0px auto;
+  padding: 0px;
+  border: 0px;
+  font-family: tahoma, helvetica, arial;
+  font-size: 14px;  
+  line-height: 22px; 
+  color: black; 
+}
+
+.selected{
+    Background-color: #666;  
+}
+
+.commentBox{
+    padding:50px;
+    
+}
+
+button{
+    padding: 10px;
+    margin: 0 10px 50px 0;
+    
+}
